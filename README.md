@@ -1,0 +1,2 @@
+# Moodle-Error
+Hello there,    I have some moodle website that is providing training. However, when ever i'm or my trainees tries to send message to each other the following error came up. So i tried to look at some of the options but i can't able to resolve it. So please help me and thank you very much in advance!!    Coding error detected, it must be fixed by a programmer: Could not load preference email_provider_moodle_instantmessage_permitted. Make sure the component and name you supplied to message_send() are valid.   Fekade
